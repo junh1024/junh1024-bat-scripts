@@ -1,0 +1,1 @@
+"convert.exe" "%~dp1%~n1%~x1" -filter Lanczos -resize "512x512" -quality 80 "%~dp1%~n1_tn.jpg"

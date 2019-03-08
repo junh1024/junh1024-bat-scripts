@@ -1,0 +1,1 @@
+for %%a in ( *.jpg ) do ( "jpegoptim.exe" %%a )
